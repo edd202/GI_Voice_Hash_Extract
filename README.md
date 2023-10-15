@@ -6,8 +6,18 @@ HashExtract.py
 
 txt형태로 저장
 
+
+HashExtract_KR_Output.py
+
+https://gamebanana.com/updates/229301에서 받은 KR_Output에서 Hash값을
+
+추출해서 txt형태로 저장
+
+
 FileExtract.py
 
 추출한 해시값의 txt를 이용하여 언팩이 완료된 보이스 파일 폴더에서
 
 특정 캐릭터의 보이스만 선택적으로 복사함
+
+
